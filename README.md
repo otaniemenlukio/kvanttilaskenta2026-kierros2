@@ -1,6 +1,6 @@
-# Kierros 2 — Kvanttilaskennan lukiokurssi 2024
+# Kierros 2 — Kvanttilaskennan lukiokurssi 2026
 
-Kierros 2 tehtävien palautus viimeistään KE 13.3.2024.
+Kierros 2 tehtävien palautus viimeistään TBD.
 
 ## Työkirja
 
@@ -16,7 +16,7 @@ Palauta
 1. muokattu `kierros2_tehtävät.ipynb` sekä
 2. paperille tehdyt tehtävät valokuvina tai PDF-tiedostona
 
-[Google Formsiin](https://forms.gle/sZfnPgDEA4M2xrnD7) viimeistään 13.3.2024 klo 16:15.
+[Google Formsiin](https://forms.gle/mzG2A698DKeR9QPY7) viimeistään TBD.
 
 ## Mallivastaukset
 
